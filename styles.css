@@ -16,18 +16,14 @@ Quote section background color #E5E7EB
 Quote Text: 36px light italic #1F2937
 */
 
-.headerlogo {
-
+.section1{
+    background-color: #1f2937;
+    border: 1px;
 }
 
-.headerone {
-
-}
-
-.headertwo {
-
-}
-
-.headerthree {
-
+#headerlogo{
+    border: red;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
 }
